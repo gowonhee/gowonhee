@@ -16,7 +16,7 @@
 
 <div align=center>
 
-[![Naver Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://m.blog.naver.com/kodnjshee)](https://m.blog.naver.com/kodnjshee) 
+[![Naver.blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://m.blog.naver.com/kodnjshee)](https://m.blog.naver.com/kodnjshee) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dnjshee__go_)](https://www.instagram.com/dnjshee__go_/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
 </div>
