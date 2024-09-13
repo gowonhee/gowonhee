@@ -1,4 +1,4 @@
-## Go WonHee / 고원희 👋
+## Wonhee Go / 고원희 👋
 
 #### Software Developer ✨
 - 😄I'm a developer who works hard by blogging.
@@ -12,9 +12,9 @@
 - Leadership, Writing, Presentation
 
 <div align=center>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://m.blog.naver.com/kodnjshee)](https://m.blog.naver.com/kodnjshee)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dnjshee__go_)](https://www.instagram.com/dnjshee__go_/) 
 
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/kodnjshee/)](https://blog.naver.com/kodnjshee/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dnjshee__go_/)](https://www.instagram.com/dnjshee__go_/) 
 </div>
 
