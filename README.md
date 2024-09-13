@@ -13,6 +13,6 @@
 
 <div align=center>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
-<!-- 네이버 블로그랑 노션 추가할 것 (참조사이트 : https://m.blog.naver.com/yb2316/222260350184) -->
 </div>
+<!-- 네이버 블로그랑 노션 추가할 것 (참조사이트 : https://m.blog.naver.com/yb2316/222260350184) -->
 
