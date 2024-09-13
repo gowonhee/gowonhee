@@ -1,19 +1,13 @@
-## Go WonHee / 고원 👋
-<!-- 
-<div align=center>
+## Go WonHee / 고원희 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-</div>-->
-
-### Software Developer ✨
+#### Software Developer ✨
 - 😄I'm a developer who works hard by blogging.
 
-### Work experience 🤹‍♀️
+#### Work experience 🤹‍♀️
 - (20.03 - 24.02) 정보통신공학과 정보통신공학전공 학사
 - (24.06 - 24.11) 인공지능사관학교 5기 웹기반인공지능 Track1 (JS) 과정 수료 예정
 
-### Interest 👀
+#### Interest 👀
 - Front-end development - Especially, React)
 - Leadership, Writing, Presentation
 
@@ -24,20 +18,3 @@
 
 </div>
 
-
-
-
-<!--
-**gowonhee/gowonhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
