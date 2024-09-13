@@ -22,7 +22,6 @@
 </div>
 
 
-[![gitanimals](https://render.gitanimals.org/farms/zzsza)](https://github.com/devxb/gitanimals)
 
 
 <!--
