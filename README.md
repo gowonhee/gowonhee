@@ -1,4 +1,4 @@
-## Hi there 👋
+## Go WonHee / 고원 👋
 <!-- 
 <div align=center>
 
@@ -6,19 +6,22 @@
 
 </div>-->
 
-### Software Developer
-- ✨Software Developer 
+### Software Developer ✨
 - 😄I'm a developer who works hard by blogging.
 
-### Interest
+### Work experience 🤹‍♀️
+- (20.03 - 24.02) 정보통신공학과 정보통신공학전공 학사
+- (24.06 - 24.11) 인공지능사관학교 5기 웹기반인공지능 Track1 (JS) 과정 수료 예정
+
+### Interest 👀
 - Front-end development - Especially, React)
 - Leadership, Writing, Presentation
 
 <div align=center>
-
-[![Naver.blog](%20blog-black?style=flat-square&logo=github&link=https://m.blog.naver.com/kodnjshee)](https://m.blog.naver.com/kodnjshee) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dnjshee__go_)](https://www.instagram.com/dnjshee__go_/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://m.blog.naver.com/kodnjshee)](https://m.blog.naver.com/kodnjshee)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dnjshee__go_)](https://www.instagram.com/dnjshee__go_/) 
+
 </div>
 
 
