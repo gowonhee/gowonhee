@@ -12,7 +12,7 @@
 - Leadership, Writing, Presentation
 
 <div align=center>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko0413hee@gmail.com)](mailto:ko0413hee@gmail.com)
+<a href="https://blog.naver.com/kodnjshee" target="_blank"><img src="https://img.shields.io/badge/#A9F5A9?style=flat&logo=로고&logoColor=로고색상"/></a>
 </div>
 <!-- 네이버 블로그랑 노션 추가할 것 (참조사이트 : https://m.blog.naver.com/yb2316/222260350184) -->
 
