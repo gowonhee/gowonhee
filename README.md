@@ -12,7 +12,7 @@
 - Leadership, Writing, Presentation
 
 <div align=center>
-<a href="https://blog.naver.com/kodnjshee" target="_blank"><img src="https://img.shields.io/badge/#A9F5A9?style=flat&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.notion.so/wonniego/Wonnie-s-Library-c9106659a8ab4accad0e6a2840c09114?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 <!-- 네이버 블로그랑 노션 추가할 것 (참조사이트 : https://m.blog.naver.com/yb2316/222260350184) -->
 
