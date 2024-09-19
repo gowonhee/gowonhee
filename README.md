@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </details>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
 #### Work experience 🤹‍♀️
 - (20.03 - 24.02) 정보통신공학과 정보통신공학전공 학사
