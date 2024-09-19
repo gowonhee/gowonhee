@@ -13,7 +13,8 @@
 
 <div align=center>
 <a href="https://www.notion.so/wonniego/Wonnie-s-Library-c9106659a8ab4accad0e6a2840c09114?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-<a href="https://blog.naver.com/kodnjshee" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<a href="https://blog.naver.com/kodnjshee" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=Naver&logoColor=yellow"></a>
+<a href="https://github.com/gowonhee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </div>
 <!-- 네이버 블로그랑 노션 추가할 것 (참조사이트 : https://m.blog.naver.com/yb2316/222260350184) -->
 
