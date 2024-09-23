@@ -3,7 +3,7 @@
 #### Software Developer ✨
 - 😄I'm a developer who works hard by blogging.
   
-<details> possibleㅤlanguage ✍
+#### possibleㅤlanguage ✍
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -14,7 +14,6 @@
   </br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</details>
 
 #### Work experience 🤹‍♀️
 - (20.03 - 24.02) 정보통신공학과 정보통신공학전공 학사
